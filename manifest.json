@@ -1,0 +1,8 @@
+{
+  "name": "Webm Live Wallpaper",
+  "description": "Set custom WebM video backgrounds for your Spotify client.",
+  "main": "videoBackground.js",
+  "authors": ["khangdnc0410148-ai"],
+  "version": "1.0.0",
+  "tags": ["background", "video", "customization"]
+}
